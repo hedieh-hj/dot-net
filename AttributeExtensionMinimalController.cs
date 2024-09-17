@@ -21,7 +21,7 @@ namespace ota.ms.api.Extensions
         }
     }
 
-
+    // this is your attribute to call before endpoints run
     public class PermissionCheckFilter : IEndpointFilter
     {        
         private readonly string _permission_name;
@@ -30,7 +30,7 @@ namespace ota.ms.api.Extensions
         {
             _permission_name = permission_name;     
         }
-
+    
         public async ValueTask<object?> InvokeAsync(EndpointFilterInvocationContext context, EndpointFilterDelegate next)
         {
             if (string.IsNullOrEmpty(_permission_name))
