@@ -1,18 +1,8 @@
-﻿using CMSProject.Data.DataAccess;
-using CMSProject.Service.Interfaces;
-using CMSProject.Service.Services;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using System.Web.Routing;
-
 namespace CMSProject.Web.Attributes
 {
     public class AclAttribute : ActionFilterAttribute
     {
+        //if services add in constructor it start one time and for another request these are null
         private readonly string _actionName;
         public AclAttribute(string Action)
         {
@@ -21,22 +11,24 @@ namespace CMSProject.Web.Attributes
 
         public override void OnActionExecuting(ActionExecutingContext filterContext)
         {           
-            var _userService = DependencyResolver.Current.GetService<IUserService>();                        
+            var _userService = DependencyResolver.Current.GetService<IUserService>();   //because if services add in constructor it start one time and for another request these are null               
             
             var user_roles = (_userService.GetUserByUsername(HttpContext.Current.User.Identity.Name)
                 .UserRoles).Select(x => x.Id)
                            .ToList();
 
             var allowed_roles = GetAllowedRoles(_actionName);
-
+            
             var _has_permission = user_roles.Intersect(allowed_roles).Any();
 
             if (_has_permission)
             {
+                // Called by the ASP.NET MVC framework before the action method executes.
                 base.OnActionExecuting(filterContext);
             }
             else
             {
+                // return access denied page - or return unauthorized 
                 filterContext.Result = new RedirectToRouteResult(
                    new RouteValueDictionary
                    {
@@ -49,24 +41,7 @@ namespace CMSProject.Web.Attributes
 
         private List<int> GetAllowedRoles(string action_name)
         {
-            var _unitOfWork = DependencyResolver.Current.GetService<IUnitOfWork>();
-
-            var _query_page = "[dbo].[GetPageOperationRole] @Action";
-
-            var queryparams_page = new List<SqlParameter>()
-            {
-                new SqlParameter()
-                {
-                    DbType = DbType.String,
-                    Direction = ParameterDirection.Input,
-                    ParameterName = "@Action",
-                    Size = 500,
-                    SqlDbType = SqlDbType.NVarChar,
-                    Value = action_name
-                }
-            };
-
-            return _unitOfWork.Database.SqlQuery<int>(_query_page, queryparams_page.ToArray()).ToList();
+            // operations ...
         }        
     }
 }
