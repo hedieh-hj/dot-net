@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mN43R24uvU8=",
+  "success": true,
+  "projectFilePath": "F:\\projects\\draw table in console\\DrawTable\\DrawTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jamili\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\jamili\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
