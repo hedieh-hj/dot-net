@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServerApi", "TCPServerApi.csproj", "{22543657-EF9B-43A8-B5BF-148053EEAC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPAgent", "..\TCPAgent\TCPAgent.csproj", "{07C82BA3-47DA-444B-AC40-2AF81F3E99F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\Services\Services.csproj", "{146E8404-87F0-4636-BC90-461BD35D9EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22543657-EF9B-43A8-B5BF-148053EEAC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22543657-EF9B-43A8-B5BF-148053EEAC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22543657-EF9B-43A8-B5BF-148053EEAC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22543657-EF9B-43A8-B5BF-148053EEAC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C82BA3-47DA-444B-AC40-2AF81F3E99F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C82BA3-47DA-444B-AC40-2AF81F3E99F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C82BA3-47DA-444B-AC40-2AF81F3E99F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C82BA3-47DA-444B-AC40-2AF81F3E99F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146E8404-87F0-4636-BC90-461BD35D9EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146E8404-87F0-4636-BC90-461BD35D9EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146E8404-87F0-4636-BC90-461BD35D9EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146E8404-87F0-4636-BC90-461BD35D9EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E2395A5-3B27-4DC4-89A1-7D80BB2F9A50}
+	EndGlobalSection
+EndGlobal

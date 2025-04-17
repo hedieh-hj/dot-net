@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|f:\\github\\dot-net\\tcpserver\\tcpserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|f:\\github\\dot-net\\tcpserver\\tcpserverapi\\controllers\\tcpapimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|solutionrelative:controllers\\tcpapimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|f:\\github\\dot-net\\tcpserver\\tcpserverapi\\tcpserverapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|solutionrelative:tcpserverapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|f:\\github\\dot-net\\tcpserver\\tcpserverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22543657-EF9B-43A8-B5BF-148053EEAC81}|TCPServerApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\TCPAgent\\Services\\TaxValidationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\TCPAgent\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\Services\\Models\\ValidationModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\Services\\Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\Services\\Services\\TCPService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\Services\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jamili\\source\\repos\\TCPAgent\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCPServerApi.csproj",
+              "DocumentMoniker": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\TCPServerApi.csproj",
+              "RelativeDocumentMoniker": "TCPServerApi.csproj",
+              "ToolTip": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\TCPServerApi.csproj",
+              "RelativeToolTip": "TCPServerApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T07:39:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\TCPAgent\\Services\\TaxValidationService.cs",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\TCPAgent\\Services\\TaxValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:30:30.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\TCPAgent\\Worker.cs",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\TCPAgent\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:28:28.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationModel.cs",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\Services\\Models\\ValidationModel.cs",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\Services\\Models\\ValidationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:26:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T07:17:07.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T07:14:14.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:13:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPApiMap.cs",
+              "DocumentMoniker": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\Controllers\\TCPApiMap.cs",
+              "RelativeDocumentMoniker": "Controllers\\TCPApiMap.cs",
+              "ToolTip": "F:\\github\\dot-net\\TCPServer\\TCPServerApi\\Controllers\\TCPApiMap.cs",
+              "RelativeToolTip": "Controllers\\TCPApiMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:12:28.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TCPService.cs",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\Services\\Services\\TCPService.cs",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\Services\\Services\\TCPService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:10:58.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\Services\\Program.cs",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\Services\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:08:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamili\\source\\repos\\TCPAgent\\Program.cs",
+              "ToolTip": "C:\\Users\\jamili\\source\\repos\\TCPAgent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:08:19.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

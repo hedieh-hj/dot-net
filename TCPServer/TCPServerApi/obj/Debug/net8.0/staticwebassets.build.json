@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tLFmRJHidFSVa/HQmsMAyP/gCpPS/hvt4OAefgKSBlc=",
+  "Source": "TCPServerApi",
+  "BasePath": "_content/TCPServerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

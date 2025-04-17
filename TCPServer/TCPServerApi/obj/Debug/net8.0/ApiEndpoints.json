@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "TCPServerApi.Maps.TCPApiMap\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTCPAPI\u003Eb__0_0",
+    "RelativePath": "api/tcp/request",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Services.Models.ValidationViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
