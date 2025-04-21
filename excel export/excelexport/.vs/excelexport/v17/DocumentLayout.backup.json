@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects\\excel export\\excelexport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1C7A1-AB7C-4E63-95D8-4C8E7F2F3B06}|..\\ExcelApiMap\\ExcelApiMap.csproj|f:\\projects\\excel export\\excelapimap\\controllers\\excelapimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|f:\\projects\\excel export\\excelexport\\services\\excelexporterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|solutionrelative:services\\excelexporterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|f:\\projects\\excel export\\excelexport\\models\\invoicefieldsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|solutionrelative:models\\invoicefieldsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|f:\\projects\\excel export\\excelexport\\models\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|solutionrelative:models\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|f:\\projects\\excel export\\excelexport\\services\\barnstoragedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|solutionrelative:services\\barnstoragedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1C7A1-AB7C-4E63-95D8-4C8E7F2F3B06}|..\\ExcelApiMap\\ExcelApiMap.csproj|f:\\projects\\excel export\\excelapimap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|f:\\projects\\excel export\\excelexport\\excelexport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|solutionrelative:excelexport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1C7A1-AB7C-4E63-95D8-4C8E7F2F3B06}|..\\ExcelApiMap\\ExcelApiMap.csproj|f:\\projects\\excel export\\excelapimap\\excelapimap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1C7A1-AB7C-4E63-95D8-4C8E7F2F3B06}|..\\ExcelApiMap\\ExcelApiMap.csproj|f:\\projects\\excel export\\excelapimap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|f:\\projects\\excel export\\excelexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BF7292-50F8-4821-8E2A-5B30130420D5}|excelexport.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceFieldsViewModel.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\excelexport\\Models\\InvoiceFieldsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceFieldsViewModel.cs",
+              "ToolTip": "F:\\projects\\excel export\\excelexport\\Models\\InvoiceFieldsViewModel.cs",
+              "RelativeToolTip": "Models\\InvoiceFieldsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:51:46.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarnStorageDBContext.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\excelexport\\Services\\BarnStorageDBContext.cs",
+              "RelativeDocumentMoniker": "Services\\BarnStorageDBContext.cs",
+              "ToolTip": "F:\\projects\\excel export\\excelexport\\Services\\BarnStorageDBContext.cs",
+              "RelativeToolTip": "Services\\BarnStorageDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:42:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\projects\\excel export\\ExcelApiMap\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ExcelApiMap\\appsettings.json",
+              "ToolTip": "F:\\projects\\excel export\\ExcelApiMap\\appsettings.json",
+              "RelativeToolTip": "..\\ExcelApiMap\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T08:37:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\excelexport\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\projects\\excel export\\excelexport\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:53:29.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelApiMap.csproj",
+              "DocumentMoniker": "F:\\projects\\excel export\\ExcelApiMap\\ExcelApiMap.csproj",
+              "RelativeDocumentMoniker": "..\\ExcelApiMap\\ExcelApiMap.csproj",
+              "ToolTip": "F:\\projects\\excel export\\ExcelApiMap\\ExcelApiMap.csproj",
+              "RelativeToolTip": "..\\ExcelApiMap\\ExcelApiMap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T06:46:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelApiMap.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\ExcelApiMap\\Controllers\\ExcelApiMap.cs",
+              "RelativeDocumentMoniker": "..\\ExcelApiMap\\Controllers\\ExcelApiMap.cs",
+              "ToolTip": "F:\\projects\\excel export\\ExcelApiMap\\Controllers\\ExcelApiMap.cs",
+              "RelativeToolTip": "..\\ExcelApiMap\\Controllers\\ExcelApiMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:45:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\ExcelApiMap\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExcelApiMap\\Program.cs",
+              "ToolTip": "F:\\projects\\excel export\\ExcelApiMap\\Program.cs",
+              "RelativeToolTip": "..\\ExcelApiMap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:44:31.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "excelexport.csproj",
+              "DocumentMoniker": "F:\\projects\\excel export\\excelexport\\excelexport.csproj",
+              "RelativeDocumentMoniker": "excelexport.csproj",
+              "ToolTip": "F:\\projects\\excel export\\excelexport\\excelexport.csproj",
+              "RelativeToolTip": "excelexport.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T06:43:38.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceViewModel.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\excelexport\\Models\\InvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceViewModel.cs",
+              "ToolTip": "F:\\projects\\excel export\\excelexport\\Models\\InvoiceViewModel.cs",
+              "RelativeToolTip": "Models\\InvoiceViewModel.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowAEBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:13:47.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelExporterServices.cs",
+              "DocumentMoniker": "F:\\projects\\excel export\\excelexport\\Services\\ExcelExporterServices.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelExporterServices.cs",
+              "ToolTip": "F:\\projects\\excel export\\excelexport\\Services\\ExcelExporterServices.cs",
+              "RelativeToolTip": "Services\\ExcelExporterServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:03:37.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
