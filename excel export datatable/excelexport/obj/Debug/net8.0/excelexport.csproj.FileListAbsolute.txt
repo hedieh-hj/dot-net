@@ -1,0 +1,96 @@
+F:\projects\excel export\excelexport\bin\Debug\net8.0\excelexport.exe
+F:\projects\excel export\excelexport\bin\Debug\net8.0\excelexport.deps.json
+F:\projects\excel export\excelexport\bin\Debug\net8.0\excelexport.runtimeconfig.json
+F:\projects\excel export\excelexport\bin\Debug\net8.0\excelexport.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\excelexport.pdb
+F:\projects\excel export\excelexport\bin\Debug\net8.0\EPPlus.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\EPPlus.Interfaces.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.csproj.AssemblyReference.cache
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.AssemblyInfoInputs.cache
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.AssemblyInfo.cs
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.csproj.CoreCompileInputs.cache
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexp.F0F1D512.Up2Date
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.dll
+F:\projects\excel export\excelexport\obj\Debug\net8.0\refint\excelexport.dll
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.pdb
+F:\projects\excel export\excelexport\obj\Debug\net8.0\excelexport.genruntimeconfig.cache
+F:\projects\excel export\excelexport\obj\Debug\net8.0\ref\excelexport.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\ClosedXML.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\ClosedXML.Parser.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\ExcelNumberFormat.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\RBush.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\SixLabors.Fonts.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\System.IO.Packaging.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\projects\excel export\excelexport\bin\Debug\net8.0\MD.PersianDateTime.Standard.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\excelexport.exe
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\excelexport.deps.json
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\excelexport.runtimeconfig.json
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\excelexport.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\excelexport.pdb
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\ClosedXML.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\ClosedXML.Parser.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\EPPlus.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\EPPlus.Interfaces.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\ExcelNumberFormat.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\MD.PersianDateTime.Standard.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\RBush.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\SixLabors.Fonts.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\System.IO.Packaging.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+F:\projects\excel export datatable\excelexport\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.csproj.AssemblyReference.cache
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.AssemblyInfoInputs.cache
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.AssemblyInfo.cs
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.csproj.CoreCompileInputs.cache
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexp.F0F1D512.Up2Date
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.dll
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\refint\excelexport.dll
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.pdb
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\excelexport.genruntimeconfig.cache
+F:\projects\excel export datatable\excelexport\obj\Debug\net8.0\ref\excelexport.dll

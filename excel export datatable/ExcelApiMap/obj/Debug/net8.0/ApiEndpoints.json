@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "excelexport.Maps.ExcelApiMap\u002B\u003C\u003Ec",
+    "Method": "\u003CMapExcelAPI\u003Eb__0_0",
+    "RelativePath": "api/excel/export",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "excelexport.Models.InvoiceModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
