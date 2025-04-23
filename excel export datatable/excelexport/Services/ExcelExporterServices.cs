@@ -81,6 +81,76 @@ namespace excelexport.Services
             }
         }
 
+        public async Task<bool> CreateDataTableAsync(InvoiceModel invoice)
+        {
+            try
+            {
+                var orderedFields = new List<string>
+                {
+                    "indatimmd", "Indati2m", "inty", "inno", "irtaxid", "inp", "ins", "tins", "tob", "bid", "tinb", "sbc",
+                    "bpc", "bbc", "ft", "bpn", "scln", "scc", "cdcn", "cdcd", "crn", "billid", "tprdis", "tdis", "tadis",
+                    "tvam", "todam", "tbill", "tonw", "torv", "tocv", "setm", "cap", "insp", "tvop", "17tax", "sstid",
+                    "sstt", "am", "mu", "nw", "fee", "cfee", "cut", "exr", "ssrv", "sscv", "prdis", "dis", "adis", "vra",
+                    "vam", "odt", "odr", "odam", "olt", "olr", "olam", "consfee", "spro", "bros", "tcpbs", "cop", "vop",
+                    "bsrn", "tsstam", "iinn", "acn", "trmn", "pmt", "trn", "pcn", "pid", "pdt", "pv", "pspd"
+                };
+
+                var table = new DataTable();
+                
+                foreach (var field in orderedFields)
+                {
+                    table.Columns.Add(field);
+                }
+                
+                var header = invoice.Header;
+                var bodyItems = invoice.Body;
+
+                foreach (var item in bodyItems)
+                {
+                    var row = table.NewRow();
+
+                    foreach (var field in orderedFields)
+                    {
+                        object value = null;
+                        
+                        var bodyProp = item.GetType().GetProperty(field, BindingFlags.IgnoreCase | BindingFlags.Public | BindingFlags.Instance);
+                        if (bodyProp != null)
+                        {
+                            value = bodyProp.GetValue(item);
+                        }
+                        else
+                        {                            
+                            var headerProp = header.GetType().GetProperty(field, BindingFlags.IgnoreCase | BindingFlags.Public | BindingFlags.Instance);
+                            if (headerProp != null)
+                            {
+                                value = headerProp.GetValue(header);
+                            }
+                        }
+
+                        row[field] = value ?? DBNull.Value;
+                    }
+
+                    table.Rows.Add(row);
+                }
+                var workbook = new XLWorkbook();
+
+                var worksheet = workbook.Worksheets.Add(table, "invoice2");
+
+                worksheet.RightToLeft = true;
+
+                var t = DateTimeOffset.Now.ToUnixTimeMilliseconds();
+
+                workbook.SaveAs($"{t}-.xlsx");
+
+                return true;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
         public static string ToJalaali(DateTime date)
         {
             var persian_date = new PersianDateTime(date).ToString("yyyy/MM/dd");
