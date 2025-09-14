@@ -1,0 +1,57 @@
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\test send sandbox.exe
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\test send sandbox.deps.json
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\test send sandbox.runtimeconfig.json
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\test send sandbox.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\test send sandbox.pdb
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.VisualStudio.Threading.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Microsoft.VisualStudio.Validation.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\Pkcs11Interop.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\RestSharp.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\TaxCollectData.Library.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.csproj.AssemblyReference.cache
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.AssemblyInfoInputs.cache
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.AssemblyInfo.cs
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.csproj.CoreCompileInputs.cache
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test sen.5B918E1D.Up2Date
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\refint\test send sandbox.dll
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.pdb
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\test send sandbox.genruntimeconfig.cache
+D:\Projects\test sandbox\test send sandbox\test send sandbox\obj\Debug\net8.0\ref\test send sandbox.dll
